@@ -1,0 +1,331 @@
+1:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 50000 100:fcst time 15 hrs:from 202201270000
+2:Skin temperature:K (instant):regular_ll:surface:level 0 1:fcst time 15 hrs:from 202201270000
+3:Soil Temperature:K (instant):regular_ll:depthBelowLandLayer:levels 0-0.07 106:fcst time 15 hrs:from 202201270000
+4:Temperature:K (instant):regular_ll:isobaricInhPa:level 20000 100:fcst time 15 hrs:from 202201270000
+5:Temperature:K (instant):regular_ll:isobaricInhPa:level 92500 100:fcst time 15 hrs:from 202201270000
+6:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 85000 100:fcst time 15 hrs:from 202201270000
+7:Surface pressure:Pa (instant):regular_ll:surface:level 0 1:fcst time 15 hrs:from 202201270000
+8:Temperature:K (instant):regular_ll:isobaricInhPa:level 70000 100:fcst time 15 hrs:from 202201270000
+9:193:193 (accum):regular_ll:surface:level 0 1:fcst time 0-15 hrs (accum):from 202201270000
+10:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 30000 100:fcst time 15 hrs:from 202201270000
+11:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 5000 100:fcst time 15 hrs:from 202201270000
+12:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 5000 100:fcst time 15 hrs:from 202201270000
+13:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 70000 100:fcst time 15 hrs:from 202201270000
+14:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 100000 100:fcst time 15 hrs:from 202201270000
+15:Temperature:K (instant):regular_ll:isobaricInhPa:level 30000 100:fcst time 15 hrs:from 202201270000
+16:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 20000 100:fcst time 15 hrs:from 202201270000
+17:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 92500 100:fcst time 15 hrs:from 202201270000
+18:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 100000 100:fcst time 15 hrs:from 202201270000
+19:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 50000 100:fcst time 15 hrs:from 202201270000
+20:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 85000 100:fcst time 15 hrs:from 202201270000
+21:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 30000 100:fcst time 15 hrs:from 202201270000
+22:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 25000 100:fcst time 15 hrs:from 202201270000
+23:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 70000 100:fcst time 15 hrs:from 202201270000
+24:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 92500 100:fcst time 15 hrs:from 202201270000
+25:Mean sea level pressure:Pa (instant):regular_ll:meanSea:level 0 101:fcst time 15 hrs:from 202201270000
+26:Temperature:K (instant):regular_ll:isobaricInhPa:level 100000 100:fcst time 15 hrs:from 202201270000
+27:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 20000 100:fcst time 15 hrs:from 202201270000
+28:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 20000 100:fcst time 15 hrs:from 202201270000
+29:Temperature:K (instant):regular_ll:isobaricInhPa:level 85000 100:fcst time 15 hrs:from 202201270000
+30:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 92500 100:fcst time 15 hrs:from 202201270000
+31:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 92500 100:fcst time 15 hrs:from 202201270000
+32:2 metre temperature:K (instant):regular_ll:heightAboveGround:level 2 103:fcst time 15 hrs:from 202201270000
+33:Temperature:K (instant):regular_ll:isobaricInhPa:level 50000 100:fcst time 15 hrs:from 202201270000
+34:10 metre V wind component:m s**-1 (instant):regular_ll:heightAboveGround:level 10 103:fcst time 15 hrs:from 202201270000
+35:Temperature:K (instant):regular_ll:isobaricInhPa:level 25000 100:fcst time 15 hrs:from 202201270000
+36:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 25000 100:fcst time 15 hrs:from 202201270000
+37:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 25000 100:fcst time 15 hrs:from 202201270000
+38:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 30000 100:fcst time 15 hrs:from 202201270000
+39:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 30000 100:fcst time 15 hrs:from 202201270000
+40:10 metre U wind component:m s**-1 (instant):regular_ll:heightAboveGround:level 10 103:fcst time 15 hrs:from 202201270000
+41:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 20000 100:fcst time 15 hrs:from 202201270000
+42:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 50000 100:fcst time 15 hrs:from 202201270000
+43:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 50000 100:fcst time 15 hrs:from 202201270000
+44:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 70000 100:fcst time 15 hrs:from 202201270000
+45:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 70000 100:fcst time 15 hrs:from 202201270000
+46:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 100000 100:fcst time 15 hrs:from 202201270000
+47:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 100000 100:fcst time 15 hrs:from 202201270000
+48:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 25000 100:fcst time 15 hrs:from 202201270000
+49:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 85000 100:fcst time 15 hrs:from 202201270000
+50:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 85000 100:fcst time 15 hrs:from 202201270000
+51:Total column integrated water vapour:kg m**-2 (instant):regular_ll:entireAtmosphere:level 0 1:fcst time 15 hrs:from 202201270000
+52:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 5000 100:fcst time 15 hrs:from 202201270000
+53:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 5000 100:fcst time 15 hrs:from 202201270000
+54:Temperature:K (instant):regular_ll:isobaricInhPa:level 5000 100:fcst time 15 hrs:from 202201270000
+55:Specific humidity:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 50000 100:fcst time 15 hrs:from 202201270000
+56:Specific humidity:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 85000 100:fcst time 15 hrs:from 202201270000
+57:Specific humidity:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 70000 100:fcst time 15 hrs:from 202201270000
+58:Specific humidity:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 100000 100:fcst time 15 hrs:from 202201270000
+59:Specific humidity:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 92500 100:fcst time 15 hrs:from 202201270000
+60:Specific humidity:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 30000 100:fcst time 15 hrs:from 202201270000
+61:Specific humidity:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 20000 100:fcst time 15 hrs:from 202201270000
+62:Specific humidity:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 25000 100:fcst time 15 hrs:from 202201270000
+63:Divergence:s**-1 (instant):regular_ll:isobaricInhPa:level 92500 100:fcst time 15 hrs:from 202201270000
+64:Vorticity (relative):s**-1 (instant):regular_ll:isobaricInhPa:level 50000 100:fcst time 15 hrs:from 202201270000
+65:Vorticity (relative):s**-1 (instant):regular_ll:isobaricInhPa:level 85000 100:fcst time 15 hrs:from 202201270000
+66:Divergence:s**-1 (instant):regular_ll:isobaricInhPa:level 50000 100:fcst time 15 hrs:from 202201270000
+67:Specific humidity:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 5000 100:fcst time 15 hrs:from 202201270000
+68:Vorticity (relative):s**-1 (instant):regular_ll:isobaricInhPa:level 70000 100:fcst time 15 hrs:from 202201270000
+69:Vorticity (relative):s**-1 (instant):regular_ll:isobaricInhPa:level 100000 100:fcst time 15 hrs:from 202201270000
+70:Vorticity (relative):s**-1 (instant):regular_ll:isobaricInhPa:level 30000 100:fcst time 15 hrs:from 202201270000
+71:Divergence:s**-1 (instant):regular_ll:isobaricInhPa:level 70000 100:fcst time 15 hrs:from 202201270000
+72:Vorticity (relative):s**-1 (instant):regular_ll:isobaricInhPa:level 92500 100:fcst time 15 hrs:from 202201270000
+73:Divergence:s**-1 (instant):regular_ll:isobaricInhPa:level 85000 100:fcst time 15 hrs:from 202201270000
+74:Divergence:s**-1 (instant):regular_ll:isobaricInhPa:level 30000 100:fcst time 15 hrs:from 202201270000
+75:Vorticity (relative):s**-1 (instant):regular_ll:isobaricInhPa:level 20000 100:fcst time 15 hrs:from 202201270000
+76:Divergence:s**-1 (instant):regular_ll:isobaricInhPa:level 20000 100:fcst time 15 hrs:from 202201270000
+77:Divergence:s**-1 (instant):regular_ll:isobaricInhPa:level 100000 100:fcst time 15 hrs:from 202201270000
+78:Divergence:s**-1 (instant):regular_ll:isobaricInhPa:level 25000 100:fcst time 15 hrs:from 202201270000
+79:Vorticity (relative):s**-1 (instant):regular_ll:isobaricInhPa:level 25000 100:fcst time 15 hrs:from 202201270000
+80:201:201 (accum):regular_ll:surface:level 0 1:fcst time 0-15 hrs (accum):from 202201270000
+81:Divergence:s**-1 (instant):regular_ll:isobaricInhPa:level 5000 100:fcst time 15 hrs:from 202201270000
+82:Vorticity (relative):s**-1 (instant):regular_ll:isobaricInhPa:level 5000 100:fcst time 15 hrs:from 202201270000
+arquivo aberto! Montado arquivo
+procurando variáveis
+concluido
+1
+Relative humidity [%]
+50000[Pa] ISBL="Isobaric surface"
+2
+Skin temperature [C]
+0[-] SFC="Ground or water surface"
+3
+Soil temperature [C]
+0-0.07[m] DBLL="Depth below land surface"
+4
+Temperature [C]
+20000[Pa] ISBL="Isobaric surface"
+5
+Temperature [C]
+92500[Pa] ISBL="Isobaric surface"
+6
+Geopotential height [gpm]
+85000[Pa] ISBL="Isobaric surface"
+7
+Pressure [Pa]
+0[-] SFC="Ground or water surface"
+8
+Temperature [C]
+70000[Pa] ISBL="Isobaric surface"
+9
+(prodType 0, cat 1, subcat 193) [-]
+0[-] SFC="Ground or water surface"
+10
+Geopotential height [gpm]
+30000[Pa] ISBL="Isobaric surface"
+11
+u-component of wind [m/s]
+5000[Pa] ISBL="Isobaric surface"
+12
+v-component of wind [m/s]
+5000[Pa] ISBL="Isobaric surface"
+13
+Geopotential height [gpm]
+70000[Pa] ISBL="Isobaric surface"
+14
+Relative humidity [%]
+100000[Pa] ISBL="Isobaric surface"
+15
+Temperature [C]
+30000[Pa] ISBL="Isobaric surface"
+16
+Geopotential height [gpm]
+20000[Pa] ISBL="Isobaric surface"
+17
+Geopotential height [gpm]
+92500[Pa] ISBL="Isobaric surface"
+18
+Geopotential height [gpm]
+100000[Pa] ISBL="Isobaric surface"
+19
+Geopotential height [gpm]
+50000[Pa] ISBL="Isobaric surface"
+20
+Relative humidity [%]
+85000[Pa] ISBL="Isobaric surface"
+21
+Relative humidity [%]
+30000[Pa] ISBL="Isobaric surface"
+22
+Geopotential height [gpm]
+25000[Pa] ISBL="Isobaric surface"
+23
+Relative humidity [%]
+70000[Pa] ISBL="Isobaric surface"
+24
+Relative humidity [%]
+92500[Pa] ISBL="Isobaric surface"
+25
+Pressure [Pa]
+0[-] MSL="Mean sea level"
+26
+Temperature [C]
+100000[Pa] ISBL="Isobaric surface"
+27
+v-component of wind [m/s]
+20000[Pa] ISBL="Isobaric surface"
+28
+u-component of wind [m/s]
+20000[Pa] ISBL="Isobaric surface"
+29
+Temperature [C]
+85000[Pa] ISBL="Isobaric surface"
+30
+u-component of wind [m/s]
+92500[Pa] ISBL="Isobaric surface"
+31
+v-component of wind [m/s]
+92500[Pa] ISBL="Isobaric surface"
+32
+Temperature [C]
+2[m] HTGL="Specified height level above ground"
+33
+Temperature [C]
+50000[Pa] ISBL="Isobaric surface"
+34
+v-component of wind [m/s]
+10[m] HTGL="Specified height level above ground"
+35
+Temperature [C]
+25000[Pa] ISBL="Isobaric surface"
+36
+v-component of wind [m/s]
+25000[Pa] ISBL="Isobaric surface"
+37
+u-component of wind [m/s]
+25000[Pa] ISBL="Isobaric surface"
+38
+v-component of wind [m/s]
+30000[Pa] ISBL="Isobaric surface"
+39
+u-component of wind [m/s]
+30000[Pa] ISBL="Isobaric surface"
+40
+u-component of wind [m/s]
+10[m] HTGL="Specified height level above ground"
+41
+Relative humidity [%]
+20000[Pa] ISBL="Isobaric surface"
+42
+u-component of wind [m/s]
+50000[Pa] ISBL="Isobaric surface"
+43
+v-component of wind [m/s]
+50000[Pa] ISBL="Isobaric surface"
+44
+v-component of wind [m/s]
+70000[Pa] ISBL="Isobaric surface"
+45
+u-component of wind [m/s]
+70000[Pa] ISBL="Isobaric surface"
+46
+u-component of wind [m/s]
+100000[Pa] ISBL="Isobaric surface"
+47
+v-component of wind [m/s]
+100000[Pa] ISBL="Isobaric surface"
+48
+Relative humidity [%]
+25000[Pa] ISBL="Isobaric surface"
+49
+v-component of wind [m/s]
+85000[Pa] ISBL="Isobaric surface"
+50
+u-component of wind [m/s]
+85000[Pa] ISBL="Isobaric surface"
+51
+Total column integrated water vapour [kg/m^2]
+0[-] SFC="Ground or water surface"
+52
+Geopotential height [gpm]
+5000[Pa] ISBL="Isobaric surface"
+53
+Relative humidity [%]
+5000[Pa] ISBL="Isobaric surface"
+54
+Temperature [C]
+5000[Pa] ISBL="Isobaric surface"
+55
+Specific humidity [kg/kg]
+50000[Pa] ISBL="Isobaric surface"
+56
+Specific humidity [kg/kg]
+85000[Pa] ISBL="Isobaric surface"
+57
+Specific humidity [kg/kg]
+70000[Pa] ISBL="Isobaric surface"
+58
+Specific humidity [kg/kg]
+100000[Pa] ISBL="Isobaric surface"
+59
+Specific humidity [kg/kg]
+92500[Pa] ISBL="Isobaric surface"
+60
+Specific humidity [kg/kg]
+30000[Pa] ISBL="Isobaric surface"
+61
+Specific humidity [kg/kg]
+20000[Pa] ISBL="Isobaric surface"
+62
+Specific humidity [kg/kg]
+25000[Pa] ISBL="Isobaric surface"
+63
+Relative divergence [1/s]
+92500[Pa] ISBL="Isobaric surface"
+64
+Relative vorticity [1/s]
+50000[Pa] ISBL="Isobaric surface"
+65
+Relative vorticity [1/s]
+85000[Pa] ISBL="Isobaric surface"
+66
+Relative divergence [1/s]
+50000[Pa] ISBL="Isobaric surface"
+67
+Specific humidity [kg/kg]
+5000[Pa] ISBL="Isobaric surface"
+68
+Relative vorticity [1/s]
+70000[Pa] ISBL="Isobaric surface"
+69
+Relative vorticity [1/s]
+100000[Pa] ISBL="Isobaric surface"
+70
+Relative vorticity [1/s]
+30000[Pa] ISBL="Isobaric surface"
+71
+Relative divergence [1/s]
+70000[Pa] ISBL="Isobaric surface"
+72
+Relative vorticity [1/s]
+92500[Pa] ISBL="Isobaric surface"
+73
+Relative divergence [1/s]
+85000[Pa] ISBL="Isobaric surface"
+74
+Relative divergence [1/s]
+30000[Pa] ISBL="Isobaric surface"
+75
+Relative vorticity [1/s]
+20000[Pa] ISBL="Isobaric surface"
+76
+Relative divergence [1/s]
+20000[Pa] ISBL="Isobaric surface"
+77
+Relative divergence [1/s]
+100000[Pa] ISBL="Isobaric surface"
+78
+Relative divergence [1/s]
+25000[Pa] ISBL="Isobaric surface"
+79
+Relative vorticity [1/s]
+25000[Pa] ISBL="Isobaric surface"
+80
+(prodType 2, cat 0, subcat 201) [-]
+0[-] SFC="Ground or water surface"
+81
+Relative divergence [1/s]
+5000[Pa] ISBL="Isobaric surface"
+82
+Relative vorticity [1/s]
+5000[Pa] ISBL="Isobaric surface"
